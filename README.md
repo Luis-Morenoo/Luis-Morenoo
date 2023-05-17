@@ -1,12 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis A. Moreno======================================================================================================================================Software Developer------------------I am a recent graduate with a Bachelors in Computer Engineering and a Highly skilled Programmer with 4 years in software design development and integration. Advanced knowledge of Python and C++ programming languages. Logical and professional with excellent problem-solving skills and looking to obtain a software developer position in a reputable company where my coding skills and knowledge in machine learning, Java, Python, and C++ can be utilized* 🌍  I'm based in Laredo, Tx* ✉️  You can contact me at [morenoluis458@gmail.com](mailto:morenoluis458@gmail.com)* 🚀  I'm currently working on [Building Heart Rhythms Classification Device for Humans](http://https://www.youtube.com/watch?v=sygftwgjDAM)* 🧠  I'm learning Front end work for my own knowledge (HTML, CSS, JavaScript, React)* 🤝  I'm open to collaborating on Projects* ⚡  Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis A. Moreno
+======================================================================================================================================
 
-### Skills
+Software Developer
+------------------
 
+I am a recent graduate with a Bachelors in Computer Engineering and a Highly skilled Programmer with 4 years in software design development and integration. Advanced knowledge of Python and C++ programming languages. Logical and professional with excellent problem-solving skills and looking to obtain a software developer position in a reputable company where my coding skills and knowledge in machine learning, Java, Python, and C++ can be utilized
 
+*   🌍  I'm based in Laredo, Tx
+*   ✉️  You can contact me at [morenoluis458@gmail.com](mailto:morenoluis458@gmail.com)
+*   🚀  I'm currently working on [Building Heart Rhythms Classification Device for Humans](http://https://www.youtube.com/watch?v=sygftwgjDAM)
+*   🧠  I'm learning Front end work for my own knowledge (HTML, CSS, JavaScript, React)
+*   🤝  I'm open to collaborating on Projects
+*   ⚡  Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.
+
+### Skills 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a></p>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+</p>
+                    
 
-### Socials<p align="left"> <a href="https://www.facebook.com/Luis Moreno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Luis-Morenoo " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luis-moreno11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Socials
+                  
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100008979723346" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Luis-Morenoo " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luis-moreno11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -21,5 +39,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/Luis-Morenoo " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Morenoo &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/morenoluisS"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
