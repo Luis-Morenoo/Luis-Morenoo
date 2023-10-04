@@ -7,7 +7,7 @@ Software Developer
 I am a recent graduate with a Bachelors in Computer Engineering and a Highly skilled Programmer with 4 years in software design development and integration. Advanced knowledge of Python and C++ programming languages. Logical and professional with excellent problem-solving skills and looking to obtain a software developer position in a reputable company where my coding skills and knowledge in machine learning, Java, Python, and C++ can be utilized
 
 *   🌍  I'm based in Laredo, Tx
-*   ✉️  You can contact me at [morenoluis458@gmail.com](mailto:morenoluis458@gmail.com)
+*   ✉️  You can contact me at [luismorenosofteng@gmail.com](mailto:luismorenosofteng@gmail.com)
 *   🚀  I'm currently working on [Building Heart Rhythms Classification Device for Humans](http://https://www.youtube.com/watch?v=sygftwgjDAM)
 *   🧠  I'm learning Front end work for my own knowledge (HTML, CSS, JavaScript, React)
 *   🤝  I'm open to collaborating on Projects
