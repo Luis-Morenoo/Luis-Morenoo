@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a recent graduate with a Bachelors in Computer Engineering and a Highly skilled Programmer with 4 years in software design development and integration. Advanced knowledge of Python and C++ programming languages. Logical and professional with excellent problem-solving skills and looking to obtain a software developer position in a reputable company where my coding skills and knowledge in machine learning, Java, Python, and C++ can be utilized
+Ever since I was a kid, I was the one taking things apart just to see how they worked — whether it was a toy, a controller, or whatever I could get my hands on. That curiosity naturally led me to computers, IoT, and eventually Computer Engineering and software development. Technology has never just been a career path for me — it's been a genuine obsession. That passion turned into two years of professional industry experience, and I'm just getting started — now channeling that foundation into cybersecurity.
 
-*   🌍  I'm based in Laredo, Tx
+I hold a Bachelor's in Computer Engineering and am currently pursuing an MS in Computer Science with a Cybersecurity concentration at Arizona State University (starting May 2025). I'm actively seeking roles in IT support, data center operations, and infrastructure — building the hands-on foundation that will complement my graduate studies and long-term path toward GRC, Risk & Compliance, or SOC Analysis.
+
+
+*   🌍  I'm based in Chandler, AZ
 *   ✉️  You can contact me at [luismorenosofteng@gmail.com](mailto:luismorenosofteng@gmail.com)
-*   🚀  I'm currently working on [Building Heart Rhythms Classification Device for Humans](http://https://www.youtube.com/watch?v=sygftwgjDAM)
-*   🧠  I'm learning Front end work for my own knowledge (HTML, CSS, JavaScript, React)
 *   🤝  I'm open to collaborating on Projects
 *   ⚡  Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.
 <a href="https://www.github.com/Luis-Morenoo" target="_blank" rel="noreferrer"><img
