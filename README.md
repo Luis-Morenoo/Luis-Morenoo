@@ -6,7 +6,7 @@ Computer Engineer
 
 Ever since I was a kid, I was the one taking things apart just to see how they worked — whether it was a toy, a controller, or whatever I could get my hands on. That curiosity naturally led me to computers, IoT, and eventually Computer Engineering and software development. Technology has never just been a career path for me — it's been a genuine obsession. That passion turned into two years of professional industry experience, and I'm just getting started — now channeling that foundation into cybersecurity.
 
-I hold a Bachelor's in Computer Engineering and am currently pursuing an MS in Computer Science with a Cybersecurity concentration at Arizona State University (starting May 2025). I'm actively seeking roles in IT support, data center operations, and infrastructure — building the hands-on foundation that will complement my graduate studies and long-term path toward GRC, Risk & Compliance, or SOC Analysis.
+I hold a Bachelor's in Computer Engineering and am currently pursuing an MS in Computer Science with a Cybersecurity concentration at Arizona State University (starting May 2026).
 
 
 *   🌍  I'm based in Chandler, AZ
